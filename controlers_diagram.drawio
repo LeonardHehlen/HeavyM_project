@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-13T15:07:51.733Z" agent="5.0 (Macintosh)" etag="G_-EUs1F_vMKtLcSJvCv" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-13T15:08:31.307Z" agent="5.0 (Macintosh)" etag="paDWLcTJ82tn5kkiWGL-" version="13.7.9" type="github">
   <diagram id="HvZzBXpGsYYU1vcpJQXH" name="Page-1">
     <mxGraphModel dx="681" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -134,7 +134,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ibvbcTeNg4M_Yn5BL4wx-25" value="MIDI CONTROL&lt;br&gt;DOXA" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="350" y="270" width="80" height="220" as="geometry" />
+          <mxGeometry x="290" y="365" width="80" height="220" as="geometry" />
         </mxCell>
         <mxCell id="ibvbcTeNg4M_Yn5BL4wx-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ibvbcTeNg4M_Yn5BL4wx-45" target="ibvbcTeNg4M_Yn5BL4wx-51">
           <mxGeometry relative="1" as="geometry" />
@@ -170,7 +170,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ibvbcTeNg4M_Yn5BL4wx-51" value="ARDUINO UNO" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="356.25" width="90" height="47.5" as="geometry" />
+          <mxGeometry x="440" y="356.25" width="90" height="47.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
