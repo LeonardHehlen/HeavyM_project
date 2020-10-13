@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-13T15:07:27.085Z" agent="5.0 (Macintosh)" etag="qiRNn31zqx0GRbBoaHgQ" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-13T15:07:51.733Z" agent="5.0 (Macintosh)" etag="G_-EUs1F_vMKtLcSJvCv" version="13.7.9" type="github">
   <diagram id="HvZzBXpGsYYU1vcpJQXH" name="Page-1">
     <mxGraphModel dx="681" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,8 +7,23 @@
         <mxCell id="ibvbcTeNg4M_Yn5BL4wx-1" value="&lt;div&gt;CONTROLER&lt;/div&gt;&lt;div&gt;Bass Synth&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="710" y="490" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="ibvbcTeNg4M_Yn5BL4wx-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ibvbcTeNg4M_Yn5BL4wx-2" target="ibvbcTeNg4M_Yn5BL4wx-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ibvbcTeNg4M_Yn5BL4wx-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ibvbcTeNg4M_Yn5BL4wx-2" target="ibvbcTeNg4M_Yn5BL4wx-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ibvbcTeNg4M_Yn5BL4wx-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ibvbcTeNg4M_Yn5BL4wx-2" target="ibvbcTeNg4M_Yn5BL4wx-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ibvbcTeNg4M_Yn5BL4wx-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ibvbcTeNg4M_Yn5BL4wx-2" target="ibvbcTeNg4M_Yn5BL4wx-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ibvbcTeNg4M_Yn5BL4wx-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ibvbcTeNg4M_Yn5BL4wx-2" target="ibvbcTeNg4M_Yn5BL4wx-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ibvbcTeNg4M_Yn5BL4wx-2" value="&lt;div&gt;CONTROLER&lt;/div&gt;Harmony Synth" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="710" y="340" width="80" height="80" as="geometry" />
+          <mxGeometry x="710" y="335" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ibvbcTeNg4M_Yn5BL4wx-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ibvbcTeNg4M_Yn5BL4wx-3" target="ibvbcTeNg4M_Yn5BL4wx-11">
           <mxGeometry relative="1" as="geometry" />
