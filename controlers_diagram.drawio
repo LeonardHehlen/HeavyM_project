@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-13T15:10:15.873Z" agent="5.0 (Macintosh)" etag="s9saxaZU_i8x1VuFZN16" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-13T15:10:53.870Z" agent="5.0 (Macintosh)" etag="Lr5P7AV5exkL3fQWFqVS" version="13.7.9" type="github">
   <diagram id="HvZzBXpGsYYU1vcpJQXH" name="Page-1">
     <mxGraphModel dx="801" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -139,31 +139,31 @@
         <mxCell id="ibvbcTeNg4M_Yn5BL4wx-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ibvbcTeNg4M_Yn5BL4wx-45" target="ibvbcTeNg4M_Yn5BL4wx-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ibvbcTeNg4M_Yn5BL4wx-45" value="btn HS 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ibvbcTeNg4M_Yn5BL4wx-45" value="btn HS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="580" y="310" width="70" height="25" as="geometry" />
         </mxCell>
         <mxCell id="ibvbcTeNg4M_Yn5BL4wx-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=70;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ibvbcTeNg4M_Yn5BL4wx-47" target="ibvbcTeNg4M_Yn5BL4wx-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ibvbcTeNg4M_Yn5BL4wx-47" value="btn HS 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ibvbcTeNg4M_Yn5BL4wx-47" value="btn HS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="580" y="340" width="70" height="25" as="geometry" />
         </mxCell>
         <mxCell id="ibvbcTeNg4M_Yn5BL4wx-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=90;entryDy=20;entryPerimeter=0;" edge="1" parent="1" source="ibvbcTeNg4M_Yn5BL4wx-48" target="ibvbcTeNg4M_Yn5BL4wx-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ibvbcTeNg4M_Yn5BL4wx-48" value="pot HS 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ibvbcTeNg4M_Yn5BL4wx-48" value="pot HS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="580" y="367.5" width="70" height="25" as="geometry" />
         </mxCell>
         <mxCell id="ibvbcTeNg4M_Yn5BL4wx-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=90;entryDy=33.75;entryPerimeter=0;" edge="1" parent="1" source="ibvbcTeNg4M_Yn5BL4wx-49" target="ibvbcTeNg4M_Yn5BL4wx-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ibvbcTeNg4M_Yn5BL4wx-49" value="pot HS 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ibvbcTeNg4M_Yn5BL4wx-49" value="pot HS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="580" y="395" width="70" height="25" as="geometry" />
         </mxCell>
         <mxCell id="ibvbcTeNg4M_Yn5BL4wx-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=55;entryDy=47.5;entryPerimeter=0;" edge="1" parent="1" source="ibvbcTeNg4M_Yn5BL4wx-50" target="ibvbcTeNg4M_Yn5BL4wx-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ibvbcTeNg4M_Yn5BL4wx-50" value="pot HS 3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ibvbcTeNg4M_Yn5BL4wx-50" value="pot HS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="580" y="430" width="70" height="25" as="geometry" />
         </mxCell>
         <mxCell id="ibvbcTeNg4M_Yn5BL4wx-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=13.75;exitPerimeter=0;" edge="1" parent="1" source="ibvbcTeNg4M_Yn5BL4wx-51" target="ibvbcTeNg4M_Yn5BL4wx-25">
@@ -172,10 +172,10 @@
         <mxCell id="ibvbcTeNg4M_Yn5BL4wx-51" value="ARDUINO UNO" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
           <mxGeometry x="440" y="356.25" width="90" height="47.5" as="geometry" />
         </mxCell>
-        <mxCell id="ibvbcTeNg4M_Yn5BL4wx-68" value="&lt;div&gt;RATE - HS 1&lt;/div&gt;&lt;div&gt;(0 - 127)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ibvbcTeNg4M_Yn5BL4wx-68" value="&lt;div&gt;RATE - HS&lt;br&gt;&lt;/div&gt;&lt;div&gt;(0 - 127)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="403.75" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ibvbcTeNg4M_Yn5BL4wx-69" value="&lt;div&gt;ARP - HS 3&lt;br&gt;&lt;/div&gt;(On/Off)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ibvbcTeNg4M_Yn5BL4wx-69" value="&lt;div&gt;ARP - HS&lt;/div&gt;(On/Off)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="356.25" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
