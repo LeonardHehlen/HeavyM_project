@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2020-10-13T14:43:41.742Z" agent="5.0 (Macintosh)" version="13.7.9" etag="bnf_ju8h2QEN_CW7U5LK" type="github"><diagram id="HvZzBXpGsYYU1vcpJQXH">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-13T14:46:12.356Z" agent="5.0 (Macintosh)" etag="7aXcM6pYO4ktJqZ6Gwyh" version="13.7.9" type="github">
+  <diagram id="HvZzBXpGsYYU1vcpJQXH" name="Page-1">
+    <mxGraphModel dx="946" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ibvbcTeNg4M_Yn5BL4wx-1" value="&lt;div&gt;CONTROLER&lt;/div&gt;&lt;div&gt;Bass Synth&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="360" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ibvbcTeNg4M_Yn5BL4wx-2" value="&lt;div&gt;CONTROLER&lt;/div&gt;Harmony Synth" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="360" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ibvbcTeNg4M_Yn5BL4wx-3" value="&lt;div&gt;CONTROLER&lt;/div&gt;&lt;div&gt;Ambiant Synth&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="360" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ibvbcTeNg4M_Yn5BL4wx-4" value="&lt;div&gt;&lt;div&gt;CONTROLER&lt;/div&gt;Drums&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="360" y="400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ibvbcTeNg4M_Yn5BL4wx-5" value="Ableton" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="80" y="210" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ibvbcTeNg4M_Yn5BL4wx-6" value="HeavyM" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="660" y="180" width="60" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
