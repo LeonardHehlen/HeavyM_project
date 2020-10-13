@@ -1,53 +1,62 @@
-<mxfile host="app.diagrams.net" modified="2020-10-13T14:50:45.752Z" agent="5.0 (Macintosh)" etag="VK1bvyBrxubdt4B7i_J5" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-13T14:55:30.394Z" agent="5.0 (Macintosh)" etag="KRQK0oLv0MegfmRN_K7v" version="13.7.9" type="github">
   <diagram id="HvZzBXpGsYYU1vcpJQXH" name="Page-1">
-    <mxGraphModel dx="368" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="882" dy="1302" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ibvbcTeNg4M_Yn5BL4wx-1" value="&lt;div&gt;CONTROLER&lt;/div&gt;&lt;div&gt;Bass Synth&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="360" y="370" width="80" height="80" as="geometry" />
+          <mxGeometry x="710" y="490" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ibvbcTeNg4M_Yn5BL4wx-2" value="&lt;div&gt;CONTROLER&lt;/div&gt;Harmony Synth" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="360" y="220" width="80" height="80" as="geometry" />
+          <mxGeometry x="710" y="340" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ibvbcTeNg4M_Yn5BL4wx-3" value="&lt;div&gt;CONTROLER&lt;/div&gt;&lt;div&gt;Ambiant Synth&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="360" y="40" width="80" height="80" as="geometry" />
+          <mxGeometry x="710" y="160" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ibvbcTeNg4M_Yn5BL4wx-4" value="&lt;div&gt;&lt;div&gt;CONTROLER&lt;/div&gt;Drums&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="360" y="545" width="80" height="80" as="geometry" />
+          <mxGeometry x="710" y="665" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ibvbcTeNg4M_Yn5BL4wx-5" value="Ableton" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="80" y="210" width="60" height="80" as="geometry" />
+          <mxGeometry y="350" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ibvbcTeNg4M_Yn5BL4wx-6" value="HeavyM" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="660" y="180" width="60" height="80" as="geometry" />
+          <mxGeometry x="20" y="500" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ibvbcTeNg4M_Yn5BL4wx-7" value="&lt;div&gt;AS 1&lt;/div&gt;&lt;div&gt;(On/Off)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="40" width="80" height="30" as="geometry" />
+          <mxGeometry x="470" y="160" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ibvbcTeNg4M_Yn5BL4wx-8" value="&lt;div&gt;AS 2&lt;/div&gt;&lt;div&gt;(On/Off)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="80" width="80" height="30" as="geometry" />
+          <mxGeometry x="470" y="200" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ibvbcTeNg4M_Yn5BL4wx-9" value="&lt;div&gt;AS 3&lt;br&gt;&lt;/div&gt;(On/Off)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="120" width="80" height="30" as="geometry" />
+          <mxGeometry x="470" y="240" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ibvbcTeNg4M_Yn5BL4wx-11" value="AS Button 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="270" y="40" width="70" height="25" as="geometry" />
+        <mxCell id="ibvbcTeNg4M_Yn5BL4wx-11" value="btn AS 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="160" width="70" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="ibvbcTeNg4M_Yn5BL4wx-12" value="AS Button 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="270" y="80" width="70" height="25" as="geometry" />
+        <mxCell id="ibvbcTeNg4M_Yn5BL4wx-12" value="btn AS 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="200" width="70" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="ibvbcTeNg4M_Yn5BL4wx-13" value="AS Button 3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="270" y="122.5" width="70" height="25" as="geometry" />
+        <mxCell id="ibvbcTeNg4M_Yn5BL4wx-13" value="btn AS 3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="242.5" width="70" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="ibvbcTeNg4M_Yn5BL4wx-16" value="&lt;div&gt;FX - AS 1&lt;/div&gt;&lt;div&gt;(On/Off)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="165" width="80" height="30" as="geometry" />
+        <mxCell id="ibvbcTeNg4M_Yn5BL4wx-16" value="&lt;div&gt;FX - AS 1&lt;/div&gt;&lt;div&gt;(0 - 127)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="285" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ibvbcTeNg4M_Yn5BL4wx-17" value="FX - AS 2&lt;div&gt;(On/Off)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="205" width="80" height="30" as="geometry" />
+        <mxCell id="ibvbcTeNg4M_Yn5BL4wx-17" value="FX - AS 2&lt;div&gt;(0 - 127)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="325" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ibvbcTeNg4M_Yn5BL4wx-18" value="FX - AS 3&lt;br&gt;(On/Off)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="245" width="80" height="30" as="geometry" />
+        <mxCell id="ibvbcTeNg4M_Yn5BL4wx-18" value="FX - AS 3&lt;br&gt;(0 - 127)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="365" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ibvbcTeNg4M_Yn5BL4wx-20" value="pot AS 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="287.5" width="70" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="ibvbcTeNg4M_Yn5BL4wx-21" value="pot AS 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="327.5" width="70" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="ibvbcTeNg4M_Yn5BL4wx-22" value="pot AS 3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="370" width="70" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
